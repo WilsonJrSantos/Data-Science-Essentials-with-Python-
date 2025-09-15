@@ -20,8 +20,8 @@ Este repositorio contiene los apuntes del curso **Data Science Essentials with P
 #### Submódulo: Meet the DataFrame
 - **Apuntes:**
   - [`Meet the DataFrame.md`](Apuntes/Meet%20the%20DataFrame.md)
-  - **Cheatsheet:**
-  - [`Pandas Cheatsheet.md`](Apuntes/Pandas%20Cheatsheet.md)
+- **Cheatsheet:**
+  - [`Pandas Cheatsheet.md`](Apuntes/Pandas_Cheatsheet.md)
 
 
 
@@ -29,7 +29,7 @@ Este repositorio contiene los apuntes del curso **Data Science Essentials with P
 #### Submódulo: Matplotlib's Pyplot
 - **Apuntes:**
   - [`Matplotlib's Pyplot.md`](Apuntes/Matplotlib's%20Pyplot.md)
-  - **Cheatsheet:**
+- **Cheatsheet:**
   - [`Cheatsheet Matplotlib.md`](Apuntes/Cheatsheet%20Matplotlib.md)
 
 #### Submódulo: Core pandas moves
