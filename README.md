@@ -8,24 +8,33 @@ Este repositorio contiene los apuntes del curso **Data Science Essentials with P
 
 ## Estructura del Curso
 
-## Módulo 1: Game-Based Intro
+### Módulo 1: Game-Based Intro
 - Introducción al curso mediante un enfoque de aprendizaje basado en juegos.
+
+#### Submódulo: Python en 60 segundos
 - **Apuntes:**
   - [`Python en 60 segundos.md`](Apuntes/Python%20en%2060%20segundos.md)
 - **Cheatsheet:**
   - [`Python-cheatsheet.md`](Apuntes/Python-cheatsheet.md)
 
-### Contenido del módulo 1
-- Data-science-Essentials-with-Pyt/
-  - Apuntes/
-    - Python en 60 segundos.md
-    - Python-cheatsheet.md
-    - Cheatsheet Matplotlib.md
-    - Core pandas moves.md
-    - Matplotlib's Pyplot.md
-    - Meet the DataFrame.md
-    - Pandas Cheatsheet.md
-  - Images/
+#### Submódulo: Meet the DataFrame
+- **Apuntes:**
+  - [`Meet the DataFrame.md`](Apuntes/Meet%20the%20DataFrame.md)
+  - **Cheatsheet:**
+  - [`Pandas Cheatsheet.md`](Apuntes/Pandas%20Cheatsheet.md)
+
+
+
+
+#### Submódulo: Matplotlib's Pyplot
+- **Apuntes:**
+  - [`Matplotlib's Pyplot.md`](Apuntes/Matplotlib's%20Pyplot.md)
+  - **Cheatsheet:**
+  - [`Cheatsheet Matplotlib.md`](Apuntes/Cheatsheet%20Matplotlib.md)
+
+#### Submódulo: Core pandas moves
+- **Apuntes:**
+  - [`Core pandas moves.md`](Apuntes/Core%20pandas%20moves.md)
 
 ### 2. Coding for Answers
 - Desarrollo de habilidades de codificación para resolver problemas prácticos de ciencia de datos.
