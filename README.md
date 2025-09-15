@@ -8,35 +8,47 @@ Este repositorio contiene los apuntes del curso **Data Science Essentials with P
 
 ## Estructura del Curso
 
-### 1. Game-Based Intro
+## Módulo 1: Game-Based Intro
 - Introducción al curso mediante un enfoque de aprendizaje basado en juegos.
-- Archivo de apuntes: `Apuntes/Game-Based-Intro.md`
-- [Examen del módulo](Apuntes/Game-Based-Intro-Exam.md)
+- **Apuntes:**
+  - [`Python en 60 segundos.md`](Apuntes/Python%20en%2060%20segundos.md)
+- **Cheatsheet:**
+  - [`Python-cheatsheet.md`](Apuntes/Python-cheatsheet.md)
+
+### Contenido del módulo 1
+- Data-science-Essentials-with-Pyt/
+  - Apuntes/
+    - Python en 60 segundos.md
+    - Python-cheatsheet.md
+    - Cheatsheet Matplotlib.md
+    - Core pandas moves.md
+    - Matplotlib's Pyplot.md
+    - Meet the DataFrame.md
+    - Pandas Cheatsheet.md
+  - Images/
 
 ### 2. Coding for Answers
 - Desarrollo de habilidades de codificación para resolver problemas prácticos de ciencia de datos.
 - Archivo de apuntes: `Apuntes/Coding-for-Answers.md`
-- [Examen del módulo](Apuntes/Coding-for-Answers-Exam.md)
+
 
 ### 3. Data Cleaning
 - Técnicas y mejores prácticas para limpiar y preparar datos.
 - Archivo de apuntes: `Apuntes/Data-Cleaning.md`
-- [Examen del módulo](Apuntes/Data-Cleaning-Exam.md)
 
 ### 4. Data Visualization
 - Creación de visualizaciones efectivas para comunicar hallazgos.
 - Archivo de apuntes: `Apuntes/Data-Visualization.md`
-- [Examen del módulo](Apuntes/Data-Visualization-Exam.md)
+
 
 ### 5. Data Modeling
 - Introducción a modelos de datos y algoritmos de aprendizaje automático.
 - Archivo de apuntes: `Apuntes/Data-Modeling.md`
-- [Examen del módulo](Apuntes/Data-Modeling-Exam.md)
+
 
 ### 6. Data Storytelling
 - Cómo comunicar los resultados de análisis de datos de manera efectiva.
 - Archivo de apuntes: `Apuntes/Data-Storytelling.md`
-- [Examen del módulo](Apuntes/Data-Storytelling-Exam.md)
 
 ---
 
