@@ -215,6 +215,4 @@ df.groupby('fruit')['weight'].mean().reset_index()
 
 ![Resumen final de groupby](images/modulo1.4/groupby-final.png)
 
-````
 
----

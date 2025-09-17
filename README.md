@@ -70,13 +70,13 @@ Este repositorio contiene los apuntes del curso **Data Science Essentials with P
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/WilsonJrSantos/Data-Science-Essentials-with-Python-.git
-````
+
 
 2. Navegar a la carpeta de apuntes:
 
    ```bash
    cd Data-Science-Essentials-with-Python-
-   ```
+
 3. Abrir los archivos `.md` en tu editor de texto o visor Markdown preferido.
 
 ---
