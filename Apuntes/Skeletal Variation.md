@@ -280,5 +280,5 @@ birds.query('neck_vertebrae == neck_vertebrae.max()')
 ¡El hermoso 🦢 **cisne mudo** 🦢 se lleva el premio!
 
 
-![Imagen de cisne mudo](images/modulo2.1/cisne-mudo.png)
+![Datos del cisne mudo](images/modulo2.1/cisne-mudo.png)
 ---
