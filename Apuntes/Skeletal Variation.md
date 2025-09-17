@@ -144,7 +144,7 @@ El cuello tiene **1 hueso en la garganta** y una pila de **7 vértebras cervical
 La "C" significa **cervical**, es decir, cuello.
 
 
-![Cuello humano - cuello_humano.png](images\modulo2.1\datos_manos_pies.png)
+![cuello_humano.png](images\modulo2.1\datos_manos_pies.png)
 
 Entonces, los humanos tenemos siete vértebras cervicales. ¿Y los demás mamíferos?
 ---
