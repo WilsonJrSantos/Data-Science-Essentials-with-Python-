@@ -278,7 +278,6 @@ birds.query('neck_vertebrae == neck_vertebrae.max()')
 | mute swan | 23              |
 
 ¡El hermoso 🦢 **cisne mudo** 🦢 se lleva el premio!
-
-
 ![Datos del cisne mudo](images/modulo2.1/cisne-mudo.png)
+
 ---
