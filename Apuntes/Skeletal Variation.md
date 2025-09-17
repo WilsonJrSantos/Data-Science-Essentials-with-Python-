@@ -144,7 +144,7 @@ El cuello tiene **1 hueso en la garganta** y una pila de **7 vértebras cervical
 La "C" significa **cervical**, es decir, cuello.
 
 
-![cuello_humano.png](images/modulo2.1\datos_manos_pies.png)
+![cuello_humano.png](images/modulo2.1/datos_manos_pies.png)
 
 Entonces, los humanos tenemos siete vértebras cervicales. ¿Y los demás mamíferos?
 ---
@@ -180,7 +180,7 @@ mammals #display it
 
 **302 Filas × 2 Columnas**
 
-![Mammal neck bones](images/modulo2.1\Huesos_del_cuello_de_mamíferos.png)
+![Mammal neck bones](images/modulo2.1/Huesos_del_cuello_de_mamíferos.png)
 
 
 La mayoría muestra tener **7 vértebras cervicales**, pero ¿es esto cierto para todos?
@@ -196,7 +196,7 @@ mammals.query('species == "giraffe"')
 | giraffe | 7               |
 
 ¡A pesar de su largo cuello, las jirafas también tienen **7 vértebras cervicales**!
-![Jirafa](images/modulo2.1\jirafa.png)
+![Jirafa](images/modulo2.1/jirafa.png)
 ---
 
 ### ¿Todos los mamíferos tienen 7 vértebras?
@@ -214,7 +214,7 @@ mammals.query('neck_vertebrae != 7')
 
 ¡Ajá! Parece que los únicos mamíferos sin 7 vértebras son **perezosos** y **manatíes**.
 
-![Perezoso y manatí - perezoso_manati.png](images/modulo2.1\perezoso_manati.png)
+![Perezoso y manatí - perezoso_manati.png](images/modulo2.1/perezoso_manati.png)
 
 ---
 
@@ -250,7 +250,7 @@ birds #display it
 **81 Filas × 2 Columnas**
 
 Las aves parecen tener **muchas más vértebras cervicales que los mamíferos**.
-![Distribución de vértebras en aves - grafico_aves.png](images/modulo2.1\grafico_aves.png)
+![Distribución de vértebras en aves - grafico_aves.png](images/modulo2.1/grafico_aves.png)
 ### Distribución
 
 Hagamos un gráfico de barras con los conteos:
@@ -261,7 +261,7 @@ bird_counts = bird_counts.sort_index()
 bird_counts.plot.bar()
 ```
 
-![Imagen gráfica aves](images/modulo2.1\grafico_aves2.png)
+![Imagen gráfica aves](images/modulo2.1/grafico_aves2.png)
 
 La mayoría de las aves tienen **13 vértebras cervicales**, pero el máximo es **23**.
 
@@ -280,5 +280,5 @@ birds.query('neck_vertebrae == neck_vertebrae.max()')
 ¡El hermoso 🦢 **cisne mudo** 🦢 se lleva el premio!
 
 
-![Imagen de cisne mudo](images/modulo2.1\cisne-mudo.png)
+![Imagen de cisne mudo](images/modulo2.1/cisne-mudo.png)
 ---
